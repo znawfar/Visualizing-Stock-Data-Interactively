@@ -13,4 +13,4 @@ In the second notebook (USStockLab), I am going to extract the profit data for T
 ![Fig2 - 6 month period](https://github.com/znawfar/Visualizing_Stock_Data_Interactively/blob/main/Figures/Fig2%20-%206m.png)
 
 
-------------------------------------------------------------
+-------------------------------------------------------

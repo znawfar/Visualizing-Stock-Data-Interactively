@@ -11,5 +11,3 @@ In the second notebook (USStockLab), I am going to extract the profit data for T
 ### Visualizing the market data by candle stick and interactive chart using selector
 ![Fig2 - all data](https://github.com/znawfar/Visualizing_Stock_Data_Interactively/blob/main/Figures/Fig2%20-%20all.png)
 ![Fig2 - 6 month period](https://github.com/znawfar/Visualizing_Stock_Data_Interactively/blob/main/Figures/Fig2%20-%206m.png)
-
--------------------------------------------------------
